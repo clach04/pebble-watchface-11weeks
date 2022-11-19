@@ -81,7 +81,7 @@ Pebble.addEventListener('ready', function (e) {
 
 Pebble.addEventListener('showConfiguration', function(e) {
   'use strict';
-  Pebble.openURL('http://programus.coding.me/pebble-watchface-11weeks/html/config.html');
+  Pebble.openURL('https://clach04.github.io/pebble-watchface-11weeks/config.html');  // NOTE preview not working (yet)
 });
 
 Pebble.addEventListener('webviewclosed', function(e) {
